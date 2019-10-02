@@ -15,3 +15,5 @@ Source code of [F&F3000](http://hexgl.bkcore.com)
 ## Note
 
 The development of F&F3000 is ongoing and I appreciate reviews in the form of issues. It will require some more time to prepare higher levels for the game.
+
+PS:- This game is an improvement over the original version developed by bkcore.
